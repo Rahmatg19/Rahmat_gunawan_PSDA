@@ -81,7 +81,7 @@ int main()
       do
       {
             system("cls"); //bersihkan layar
-            printf("\t#PROGRAM TREE C++#");
+            printf("\t_FINAL_PROJEK_");
             printf("\n\t==================");
             printf("\nMENU");
             printf("\n----\n");
